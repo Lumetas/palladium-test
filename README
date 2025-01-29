@@ -1,0 +1,10 @@
+users.class.php > Содержит класс Users
+groups.class.php > Содержит класс Groups
+groups.trait.php > Содержит трейт для добавления пользователя в группы
+sqlinjection.trait.php > Содержит трейт для проверки на sql инъекции
+test.php > Содержит код для проверки функционала
+tests/groups.php > Тесты групп
+tests/injectiontests.php > Тесты инъекций
+init.sql > Содержит SQL для инициализации базы данных
+
+Для проверки использовалась SQLite3.
